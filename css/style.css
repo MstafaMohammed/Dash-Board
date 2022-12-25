@@ -1514,6 +1514,7 @@ a
     gap: 20px;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
     text-align: center;
 }
 .backup .backup-content input
